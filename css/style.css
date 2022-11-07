@@ -1,0 +1,32 @@
+.number{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 20px;
+    font-size: 70px;
+    background-color: azure;
+    border-radius: 7px;
+    padding: 10px 30px;
+}
+
+.timer, .result{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 10px;
+    font-size: 40px;
+    background-color: azure;
+    border-radius: 7px;
+    padding: 10px 10px;
+}
+
+
+.start{
+    font-size: 30px;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.hidden{
+    display: none;
+}
